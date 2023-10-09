@@ -1,8 +1,13 @@
-# React + Vite
+# TRIPGO Travel Agency Home Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TRIPGO Travel Agency Home Page developed with ReactJS & MUI
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshots
+
+![App Screenshot](https://github-production-user-asset-6210df.s3.amazonaws.com/73791490/273684691-c60386c1-9c73-45ae-9f79-02a07c9f586f.jpg)
+
+
+## Demo
+
+## [Online Demo](https://tripgonow.vercel.app/)
