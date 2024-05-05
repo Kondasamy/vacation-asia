@@ -200,7 +200,7 @@ export const footerNav = [
   {
     id: 2,
     title: "Company",
-    links: ["Why Tripgo", "Partner With Us", "FAQ", "Blog"],
+    links: ["Why Vacation Asia", "Partner With Us", "FAQ", "Blog"],
   },
   {
     id: 3,

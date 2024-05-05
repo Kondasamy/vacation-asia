@@ -1,6 +1,6 @@
-# TRIPGO Travel Agency Home Page
+# Vacation Asia - Travel Agency Home Page
 
-TRIPGO Travel Agency Home Page developed with ReactJS & MUI
+Vacation Asia - Travel Agency Home Page developed with ReactJS & MUI
 
 
 ## Screenshots
@@ -10,4 +10,4 @@ TRIPGO Travel Agency Home Page developed with ReactJS & MUI
 
 ## Demo
 
-## [Online Demo](https://tripgonow.vercel.app/)
+## [Online Demo](https://vacation-asia.vercel.app/)
